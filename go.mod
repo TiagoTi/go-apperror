@@ -1,3 +1,3 @@
-module github.com/matiasvarela/errors
+module github.com/TiagoTi/go-apperror
 
-go 1.14
+go 1.22

@@ -2,7 +2,7 @@
 Package errors provides simple error handling primitives. Although Go has a good error handling approach, sometimes it is difficult to handle them appropiatly. This package has been created for such purpose, allowing to define differents errors types and use them in the entire application.
 
 ```
-go get github.com/matiasvarela/errors
+go get github.com/TiagoTi/go-apperror
 ````
 
 ## Defining errors types
